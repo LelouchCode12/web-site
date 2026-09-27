@@ -1,0 +1,9 @@
+/* Responsive layer kept separate to satisfy the assignment structure. */
+@media (max-width:1024px){
+  .card-grid{gap:16px}
+  .hero{gap:24px}
+}
+@media (max-width:720px){
+  .feature{flex-basis:100%}
+  .footer-grid{flex-direction:column}
+}

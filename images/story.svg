@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Story planning">
+    <rect width="900" height="620" rx="36" fill="#211b10"/>
+    <rect x="80" y="92" width="740" height="436" rx="28" fill="none" stroke="#ffb84d" stroke-width="8"/>
+    <circle cx="450" cy="310" r="120" fill="#ffb84d" opacity=".18"/>
+    <circle cx="450" cy="310" r="72" fill="none" stroke="#ffb84d" stroke-width="14"/>
+    <circle cx="450" cy="310" r="18" fill="#ffb84d"/>
+    <path d="M130 160h170M600 160h170M130 460h170M600 460h170" stroke="#ffffff" opacity=".45" stroke-width="10" stroke-linecap="round"/>
+    <text x="450" y="575" fill="#ffffff" font-family="Arial" font-size="32" text-anchor="middle" letter-spacing="4">STORY PLANNING</text>
+    </svg>
